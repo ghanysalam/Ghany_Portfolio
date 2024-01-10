@@ -1,1 +1,1 @@
-# Ghany_Portfolio
+# ghany_portfolio
